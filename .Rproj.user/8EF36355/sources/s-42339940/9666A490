@@ -3,7 +3,7 @@
     "path": "~/00_School/UMN_Classes/00_Spring_2021/PUBH7462/Week2_PUBH7462/PUBH7462_Gianakas/PUBH_7561_Assignment2_Gianakas/Task_6.R",
     "project_path": "Task_6.R",
     "type": "r_source",
-    "hash": "3192352786",
+    "hash": "2517429086",
     "contents": "",
     "dirty": false,
     "created": 1612295128644.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,0",
+        "cursorPosition": "7,27",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1612295215,
+    "lastKnownWriteTime": 1612295286,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1612295215921,
+    "last_content_update": 1612295286515,
     "read_only": false,
     "read_only_alternatives": []
 }
